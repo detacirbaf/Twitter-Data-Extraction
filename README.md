@@ -5,5 +5,4 @@ Simply insert your tokens and the username you want to extact data from and you'
 
 Requirements:
 - Tweepy
-- Sys
 - Python 3.5/6
